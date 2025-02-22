@@ -1,4 +1,3 @@
-import React from 'react';
 import { PremiumROICalculator } from './components/PremiumROICalculator';
 import { HeroSection } from './components/sections/HeroSection';
 import { FearSections } from './components/sections/FearSections';

@@ -1,5 +1,3 @@
-import React from 'react';
-
 export function Footer() {
   return (
     <footer className="bg-[#26361C] text-white py-8">

@@ -1,4 +1,3 @@
-import React from 'react';
 import { BuyButton, BulletPoint, BonusItem } from '../shared/CommonComponents';
 
 export function PricingSection() {

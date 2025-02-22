@@ -1,4 +1,3 @@
-import React from 'react';
 import { BuyButton, SuccessMetric } from '../shared/CommonComponents';
 
 export function TransformationStory() {

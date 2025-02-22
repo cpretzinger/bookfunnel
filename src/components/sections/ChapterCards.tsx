@@ -1,5 +1,4 @@
-import React from 'react';
-import { 
+import {
   Package, Coins, Star, Target, BarChart3, Repeat,
   Clock, Redo2, FileText, UserCheck, ListChecks, Calendar,
   ShieldCheck, MessageSquareText, CheckCircle2, Users,

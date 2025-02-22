@@ -1,4 +1,3 @@
-import React from 'react';
 import { Tabs, TabsList, TabsTrigger, TabsContent } from '../ui/tabs';
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '../ui/card';
 import { BarChart, Bar, LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer, PieChart, Pie, Cell } from 'recharts';
